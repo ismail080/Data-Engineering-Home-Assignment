@@ -1,0 +1,13 @@
+project:
+  outputs:
+    dev:
+      account: nuzxewk-jc94366
+      database: HOME_ASSIGNMENT
+      password: Ismail@123
+      role: ACCOUNTADMIN
+      schema: PUBLIC
+      threads: 4
+      type: snowflake
+      user: ISMAIL123
+      warehouse: COMPUTE_WH
+  target: dev
