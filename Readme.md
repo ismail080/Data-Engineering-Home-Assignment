@@ -4,7 +4,7 @@ This project demonstrates data engineering concepts by loading, transforming, an
 Prerequisites
 Before you begin, ensure you have the following tools installed:
 
-Snowflake (set up a free account if necessary)
+Snowflake (set up a account)
 
 dbt (Data Build Tool)
 
