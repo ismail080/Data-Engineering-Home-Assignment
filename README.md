@@ -15,7 +15,7 @@ To deploy this project run
  dev:
       account: nuzxewk-jc94366
       database: HOME_ASSIGNMENT
-      password: Ismail@123
+      password: **********
       role: ACCOUNTADMIN
       schema: PUBLIC
       threads: 4
