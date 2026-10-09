@@ -13,14 +13,14 @@ To deploy this project run
 
 ```bash
  dev:
-      account: nuzxewk-jc94366
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
       database: HOME_ASSIGNMENT
-      password: **********
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
       role: ACCOUNTADMIN
       schema: PUBLIC
       threads: 4
       type: snowflake
-      user: ISMAIL123
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
       warehouse: COMPUTE_WH
   target: dev
 ```
