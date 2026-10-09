@@ -14,7 +14,7 @@ Warehouse: COMPUTE_WH
 Role: ACCOUNTADMIN
 Schema: PUBLIC
 Threads: 4
-User: ISMAIL123
+User: ********
 
 ```
 
